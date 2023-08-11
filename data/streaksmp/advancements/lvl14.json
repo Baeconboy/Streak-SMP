@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:sugar"
+    },
+    "title": "14 Kills - Hasty Hands",
+    "description": "Gain permanent Haste 2!",
+    "announce_to_chat": false
+  },
+  "parent": "streaksmp:lvl12",
+  "criteria": {
+    "cannot": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

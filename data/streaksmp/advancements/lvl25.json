@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "title": "25 Kills - Hero's Blessing",
+    "description": "Double every previous buff!",
+    "announce_to_chat": false
+  },
+  "parent": "streaksmp:lvl24",
+  "criteria": {
+    "cannot": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

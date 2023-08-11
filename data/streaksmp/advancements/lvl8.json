@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:apple"
+    },
+    "title": "8 Kills - Vitality Surge",
+    "description": "Gain 2 extra hearts!",
+    "announce_to_chat": false
+  },
+  "parent": "streaksmp:lvl6",
+  "criteria": {
+    "cannot": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

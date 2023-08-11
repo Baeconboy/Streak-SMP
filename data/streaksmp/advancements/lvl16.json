@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:fire_charge"
+    },
+    "title": "16 Kills - Emberproof",
+    "description": "Gain permanent Fire Resistance!",
+    "announce_to_chat": false
+  },
+  "parent": "streaksmp:lvl14",
+  "criteria": {
+    "cannot": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

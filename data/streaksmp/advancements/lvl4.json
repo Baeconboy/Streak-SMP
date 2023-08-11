@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "title": "4 Kills - Swift Feet",
+    "description": "Gain a slight permanent Speed Boost!",
+    "announce_to_chat": false
+  },
+  "parent": "streaksmp:lvl2",
+  "criteria": {
+    "cannot": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

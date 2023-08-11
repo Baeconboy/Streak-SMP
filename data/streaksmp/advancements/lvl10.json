@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_sword"
+    },
+    "title": "10 Kills - Mighty Strikes",
+    "description": "Your attacks deal slightly more damage!",
+    "announce_to_chat": false
+  },
+  "parent": "streaksmp:lvl8",
+  "criteria": {
+    "cannot": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

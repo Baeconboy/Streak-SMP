@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "title": "30 Kills - Vitality Ascension",
+    "description": "Gain 10 extra hearts!",
+    "frame": "challenge",
+    "announce_to_chat": false
+  },
+  "parent": "streaksmp:lvl25",
+  "criteria": {
+    "cannot": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
